@@ -1,1 +1,1 @@
-web: python todobot.py
+web: python todobot.py:app
